@@ -19,3 +19,4 @@
 - Fix edge case — iteration 43 (2015)
 - Refactor module — iteration 44 (2015)
 - Update docs — iteration 45 (2015)
+- Optimize performance — iteration 46 (2015)
