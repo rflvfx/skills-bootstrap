@@ -18,3 +18,4 @@
 - Add tests — iteration 39 (2015)
 - Fix edge case — iteration 43 (2015)
 - Refactor module — iteration 44 (2015)
+- Update docs — iteration 45 (2015)
