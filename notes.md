@@ -4,3 +4,4 @@
 - Tweak implementation — iteration 12 (2015)
 - Add helper — iteration 13 (2015)
 - Optimize performance — iteration 15 (2015)
+- Fix typo — iteration 16 (2015)
