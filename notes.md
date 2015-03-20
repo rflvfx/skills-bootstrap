@@ -11,3 +11,4 @@
 - Add feature — iteration 26 (2015)
 - Fix typo — iteration 27 (2015)
 - Improve naming — iteration 28 (2015)
+- Add validation — iteration 32 (2015)
