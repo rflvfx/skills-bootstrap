@@ -22,3 +22,4 @@
 - Optimize performance — iteration 46 (2015)
 - Add helper — iteration 47 (2015)
 - Optimize performance — iteration 49 (2015)
+- Document usage — iteration 52 (2015)
