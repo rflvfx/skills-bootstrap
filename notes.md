@@ -20,3 +20,4 @@
 - Refactor module — iteration 44 (2015)
 - Update docs — iteration 45 (2015)
 - Optimize performance — iteration 46 (2015)
+- Add helper — iteration 47 (2015)
