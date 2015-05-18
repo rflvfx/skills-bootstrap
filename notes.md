@@ -13,3 +13,4 @@
 - Improve naming — iteration 28 (2015)
 - Add validation — iteration 32 (2015)
 - Add example — iteration 34 (2015)
+- Update config — iteration 37 (2015)
