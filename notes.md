@@ -7,3 +7,4 @@
 - Fix typo — iteration 16 (2015)
 - Add feature — iteration 17 (2015)
 - Add validation — iteration 18 (2015)
+- Polish code — iteration 19 (2015)
