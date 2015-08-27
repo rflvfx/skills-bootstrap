@@ -17,3 +17,4 @@
 - Improve naming — iteration 38 (2015)
 - Add tests — iteration 39 (2015)
 - Fix edge case — iteration 43 (2015)
+- Refactor module — iteration 44 (2015)
