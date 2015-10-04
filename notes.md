@@ -15,3 +15,4 @@
 - Add example — iteration 34 (2015)
 - Update config — iteration 37 (2015)
 - Improve naming — iteration 38 (2015)
+- Add tests — iteration 39 (2015)
