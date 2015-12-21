@@ -10,3 +10,4 @@
 - Polish code — iteration 19 (2015)
 - Add feature — iteration 26 (2015)
 - Fix typo — iteration 27 (2015)
+- Improve naming — iteration 28 (2015)
