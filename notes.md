@@ -41,3 +41,4 @@
 - Tweak implementation — iteration 32 (2016)
 - Fix lint warnings — iteration 33 (2016)
 - Add helper — iteration 35 (2016)
+- Update dependencies — iteration 40 (2016)
