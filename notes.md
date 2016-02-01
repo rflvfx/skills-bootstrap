@@ -35,3 +35,4 @@
 - Document usage — iteration 22 (2016)
 - Add helper — iteration 24 (2016)
 - Update config — iteration 27 (2016)
+- Improve error handling — iteration 28 (2016)
