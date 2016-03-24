@@ -27,3 +27,4 @@
 - Add example — iteration 1 (2016)
 - Update config — iteration 3 (2016)
 - Tweak implementation — iteration 4 (2016)
+- Tweak implementation — iteration 6 (2016)
