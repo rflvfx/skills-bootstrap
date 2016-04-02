@@ -34,3 +34,4 @@
 - Fix lint warnings — iteration 16 (2016)
 - Document usage — iteration 22 (2016)
 - Add helper — iteration 24 (2016)
+- Update config — iteration 27 (2016)
