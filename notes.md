@@ -25,3 +25,4 @@
 - Document usage — iteration 52 (2015)
 - Add helper — iteration 54 (2015)
 - Add example — iteration 1 (2016)
+- Update config — iteration 3 (2016)
