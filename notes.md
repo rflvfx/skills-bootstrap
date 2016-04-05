@@ -33,3 +33,4 @@
 - Refactor module — iteration 15 (2016)
 - Fix lint warnings — iteration 16 (2016)
 - Document usage — iteration 22 (2016)
+- Add helper — iteration 24 (2016)
