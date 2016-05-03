@@ -49,3 +49,4 @@
 - Fix lint warnings — iteration 52 (2016)
 - Add example — iteration 54 (2016)
 - Refactor module — iteration 58 (2016)
+- Add feature — iteration 59 (2016)
