@@ -38,3 +38,4 @@
 - Improve error handling — iteration 28 (2016)
 - Refactor module — iteration 29 (2016)
 - Add feature — iteration 30 (2016)
+- Tweak implementation — iteration 32 (2016)
