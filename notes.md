@@ -29,3 +29,4 @@
 - Tweak implementation — iteration 4 (2016)
 - Tweak implementation — iteration 6 (2016)
 - Update config — iteration 9 (2016)
+- Add validation — iteration 12 (2016)
