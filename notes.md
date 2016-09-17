@@ -47,3 +47,4 @@
 - Add tests — iteration 49 (2016)
 - Add validation — iteration 51 (2016)
 - Fix lint warnings — iteration 52 (2016)
+- Add example — iteration 54 (2016)
