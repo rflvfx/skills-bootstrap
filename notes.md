@@ -44,3 +44,4 @@
 - Update dependencies — iteration 40 (2016)
 - Fix typo — iteration 46 (2016)
 - Fix lint warnings — iteration 48 (2016)
+- Add tests — iteration 49 (2016)
