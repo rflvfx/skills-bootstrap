@@ -31,3 +31,4 @@
 - Update config — iteration 9 (2016)
 - Add validation — iteration 12 (2016)
 - Refactor module — iteration 15 (2016)
+- Fix lint warnings — iteration 16 (2016)
