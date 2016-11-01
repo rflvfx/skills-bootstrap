@@ -43,3 +43,4 @@
 - Add helper — iteration 35 (2016)
 - Update dependencies — iteration 40 (2016)
 - Fix typo — iteration 46 (2016)
+- Fix lint warnings — iteration 48 (2016)
