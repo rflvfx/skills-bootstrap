@@ -56,3 +56,4 @@
 - Add validation — iteration 6 (2017)
 - Tweak implementation — iteration 10 (2017)
 - Update dependencies — iteration 12 (2017)
+- Fix edge case — iteration 13 (2017)
