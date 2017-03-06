@@ -52,3 +52,4 @@
 - Add feature — iteration 59 (2016)
 - Fix typo — iteration 1 (2017)
 - Extend coverage — iteration 2 (2017)
+- Extend coverage — iteration 4 (2017)
