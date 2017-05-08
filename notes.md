@@ -73,3 +73,4 @@
 - Add tests — iteration 54 (2017)
 - Add helper — iteration 56 (2017)
 - Extend coverage — iteration 58 (2017)
+- Tweak implementation — iteration 60 (2017)
