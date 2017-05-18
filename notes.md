@@ -65,3 +65,4 @@
 - Tweak implementation — iteration 27 (2017)
 - Document usage — iteration 39 (2017)
 - Add tests — iteration 41 (2017)
+- Polish code — iteration 44 (2017)
