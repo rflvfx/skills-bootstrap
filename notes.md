@@ -69,3 +69,4 @@
 - Fix lint warnings — iteration 45 (2017)
 - Optimize performance — iteration 48 (2017)
 - Extend coverage — iteration 49 (2017)
+- Add validation — iteration 53 (2017)
