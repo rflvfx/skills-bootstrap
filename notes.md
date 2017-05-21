@@ -68,3 +68,4 @@
 - Polish code — iteration 44 (2017)
 - Fix lint warnings — iteration 45 (2017)
 - Optimize performance — iteration 48 (2017)
+- Extend coverage — iteration 49 (2017)
