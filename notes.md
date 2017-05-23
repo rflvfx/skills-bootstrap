@@ -60,3 +60,4 @@
 - Fix typo — iteration 15 (2017)
 - Update dependencies — iteration 17 (2017)
 - Refactor module — iteration 20 (2017)
+- Improve naming — iteration 22 (2017)
