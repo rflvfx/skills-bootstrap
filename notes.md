@@ -58,3 +58,4 @@
 - Update dependencies — iteration 12 (2017)
 - Fix edge case — iteration 13 (2017)
 - Fix typo — iteration 15 (2017)
+- Update dependencies — iteration 17 (2017)
