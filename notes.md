@@ -66,3 +66,4 @@
 - Document usage — iteration 39 (2017)
 - Add tests — iteration 41 (2017)
 - Polish code — iteration 44 (2017)
+- Fix lint warnings — iteration 45 (2017)
