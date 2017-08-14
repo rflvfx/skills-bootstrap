@@ -55,3 +55,4 @@
 - Extend coverage — iteration 4 (2017)
 - Add validation — iteration 6 (2017)
 - Tweak implementation — iteration 10 (2017)
+- Update dependencies — iteration 12 (2017)
