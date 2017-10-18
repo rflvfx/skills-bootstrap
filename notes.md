@@ -50,3 +50,4 @@
 - Add example — iteration 54 (2016)
 - Refactor module — iteration 58 (2016)
 - Add feature — iteration 59 (2016)
+- Fix typo — iteration 1 (2017)
