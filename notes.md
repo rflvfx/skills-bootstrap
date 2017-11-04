@@ -62,3 +62,4 @@
 - Refactor module — iteration 20 (2017)
 - Improve naming — iteration 22 (2017)
 - Polish code — iteration 26 (2017)
+- Tweak implementation — iteration 27 (2017)
