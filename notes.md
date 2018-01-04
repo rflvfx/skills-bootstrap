@@ -89,3 +89,4 @@
 - Optimize performance — iteration 38 (2018)
 - Tweak implementation — iteration 45 (2018)
 - Add feature — iteration 48 (2018)
+- Fix lint warnings — iteration 49 (2018)
