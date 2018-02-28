@@ -76,3 +76,4 @@
 - Tweak implementation — iteration 60 (2017)
 - Improve naming — iteration 5 (2018)
 - Add example — iteration 6 (2018)
+- Update dependencies — iteration 11 (2018)
