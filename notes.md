@@ -87,3 +87,4 @@
 - Optimize performance — iteration 32 (2018)
 - Update docs — iteration 33 (2018)
 - Optimize performance — iteration 38 (2018)
+- Tweak implementation — iteration 45 (2018)
