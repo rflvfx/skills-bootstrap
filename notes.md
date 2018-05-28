@@ -93,3 +93,4 @@
 - Add helper — iteration 53 (2018)
 - Fix lint warnings — iteration 55 (2018)
 - Add example — iteration 56 (2018)
+- Optimize performance — iteration 59 (2018)
