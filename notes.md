@@ -82,3 +82,4 @@
 - Add tests — iteration 15 (2018)
 - Update config — iteration 23 (2018)
 - Update dependencies — iteration 28 (2018)
+- Fix edge case — iteration 30 (2018)
