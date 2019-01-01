@@ -98,3 +98,4 @@
 - Refactor module — iteration 7 (2019)
 - Update dependencies — iteration 8 (2019)
 - Fix lint warnings — iteration 11 (2019)
+- Polish code — iteration 13 (2019)
