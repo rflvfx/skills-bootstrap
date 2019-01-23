@@ -109,3 +109,4 @@
 - Polish code — iteration 36 (2019)
 - Document usage — iteration 42 (2019)
 - Minor cleanup — iteration 48 (2019)
+- Add tests — iteration 50 (2019)
