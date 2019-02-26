@@ -95,3 +95,4 @@
 - Add example — iteration 56 (2018)
 - Optimize performance — iteration 59 (2018)
 - Add validation — iteration 4 (2019)
+- Refactor module — iteration 7 (2019)
