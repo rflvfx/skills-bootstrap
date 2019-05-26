@@ -102,3 +102,4 @@
 - Update docs — iteration 18 (2019)
 - Extend coverage — iteration 23 (2019)
 - Add helper — iteration 24 (2019)
+- Tweak implementation — iteration 25 (2019)
