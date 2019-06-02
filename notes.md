@@ -108,3 +108,4 @@
 - Update dependencies — iteration 34 (2019)
 - Polish code — iteration 36 (2019)
 - Document usage — iteration 42 (2019)
+- Minor cleanup — iteration 48 (2019)
