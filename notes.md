@@ -97,3 +97,4 @@
 - Add validation — iteration 4 (2019)
 - Refactor module — iteration 7 (2019)
 - Update dependencies — iteration 8 (2019)
+- Fix lint warnings — iteration 11 (2019)
