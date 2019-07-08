@@ -106,3 +106,4 @@
 - Add tests — iteration 28 (2019)
 - Refactor module — iteration 30 (2019)
 - Update dependencies — iteration 34 (2019)
+- Polish code — iteration 36 (2019)
