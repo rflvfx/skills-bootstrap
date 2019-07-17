@@ -115,3 +115,4 @@
 - Add helper — iteration 55 (2019)
 - Refactor module — iteration 56 (2019)
 - Refactor module — iteration 57 (2019)
+- Improve naming — iteration 58 (2019)
