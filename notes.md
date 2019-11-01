@@ -116,3 +116,4 @@
 - Refactor module — iteration 56 (2019)
 - Refactor module — iteration 57 (2019)
 - Improve naming — iteration 58 (2019)
+- Add tests — iteration 60 (2019)
