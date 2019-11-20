@@ -111,3 +111,4 @@
 - Minor cleanup — iteration 48 (2019)
 - Add tests — iteration 50 (2019)
 - Add example — iteration 53 (2019)
+- Update docs — iteration 54 (2019)
