@@ -100,3 +100,4 @@
 - Fix lint warnings — iteration 11 (2019)
 - Polish code — iteration 13 (2019)
 - Update docs — iteration 18 (2019)
+- Extend coverage — iteration 23 (2019)
