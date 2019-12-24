@@ -105,3 +105,4 @@
 - Tweak implementation — iteration 25 (2019)
 - Add tests — iteration 28 (2019)
 - Refactor module — iteration 30 (2019)
+- Update dependencies — iteration 34 (2019)
