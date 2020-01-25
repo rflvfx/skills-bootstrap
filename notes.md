@@ -128,3 +128,4 @@
 - Fix typo — iteration 36 (2020)
 - Fix typo — iteration 38 (2020)
 - Minor cleanup — iteration 44 (2020)
+- Update docs — iteration 45 (2020)
