@@ -125,3 +125,4 @@
 - Add tests — iteration 26 (2020)
 - Update config — iteration 27 (2020)
 - Refactor module — iteration 28 (2020)
+- Fix typo — iteration 36 (2020)
