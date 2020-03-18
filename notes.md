@@ -133,3 +133,4 @@
 - Polish code — iteration 51 (2020)
 - Refactor module — iteration 52 (2020)
 - Document usage — iteration 53 (2020)
+- Add tests — iteration 54 (2020)
