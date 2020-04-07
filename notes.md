@@ -135,3 +135,4 @@
 - Document usage — iteration 53 (2020)
 - Add tests — iteration 54 (2020)
 - Fix typo — iteration 58 (2020)
+- Polish code — iteration 60 (2020)
