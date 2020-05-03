@@ -124,3 +124,4 @@
 - Extend coverage — iteration 24 (2020)
 - Add tests — iteration 26 (2020)
 - Update config — iteration 27 (2020)
+- Refactor module — iteration 28 (2020)
