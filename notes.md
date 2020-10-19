@@ -123,3 +123,4 @@
 - Add feature — iteration 19 (2020)
 - Extend coverage — iteration 24 (2020)
 - Add tests — iteration 26 (2020)
+- Update config — iteration 27 (2020)
