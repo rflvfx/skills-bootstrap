@@ -118,3 +118,4 @@
 - Improve naming — iteration 58 (2019)
 - Add tests — iteration 60 (2019)
 - Minor cleanup — iteration 1 (2020)
+- Extend coverage — iteration 15 (2020)
