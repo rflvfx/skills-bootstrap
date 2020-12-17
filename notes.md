@@ -130,3 +130,4 @@
 - Minor cleanup — iteration 44 (2020)
 - Update docs — iteration 45 (2020)
 - Update docs — iteration 47 (2020)
+- Polish code — iteration 51 (2020)
