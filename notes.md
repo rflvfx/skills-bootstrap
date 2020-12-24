@@ -122,3 +122,4 @@
 - Document usage — iteration 17 (2020)
 - Add feature — iteration 19 (2020)
 - Extend coverage — iteration 24 (2020)
+- Add tests — iteration 26 (2020)
