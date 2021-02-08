@@ -138,3 +138,4 @@
 - Polish code — iteration 60 (2020)
 - Add helper — iteration 2 (2021)
 - Update config — iteration 3 (2021)
+- Minor cleanup — iteration 4 (2021)
