@@ -153,3 +153,4 @@
 - Extend coverage — iteration 34 (2021)
 - Add example — iteration 35 (2021)
 - Extend coverage — iteration 36 (2021)
+- Refactor module — iteration 37 (2021)
