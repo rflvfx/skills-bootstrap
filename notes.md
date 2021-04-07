@@ -159,3 +159,4 @@
 - Add tests — iteration 45 (2021)
 - Minor cleanup — iteration 49 (2021)
 - Update docs — iteration 52 (2021)
+- Extend coverage — iteration 53 (2021)
