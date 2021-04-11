@@ -137,3 +137,4 @@
 - Fix typo — iteration 58 (2020)
 - Polish code — iteration 60 (2020)
 - Add helper — iteration 2 (2021)
+- Update config — iteration 3 (2021)
