@@ -150,3 +150,4 @@
 - Add helper — iteration 27 (2021)
 - Fix edge case — iteration 31 (2021)
 - Improve error handling — iteration 33 (2021)
+- Extend coverage — iteration 34 (2021)
