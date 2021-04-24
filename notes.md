@@ -160,3 +160,4 @@
 - Minor cleanup — iteration 49 (2021)
 - Update docs — iteration 52 (2021)
 - Extend coverage — iteration 53 (2021)
+- Polish code — iteration 59 (2021)
