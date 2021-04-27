@@ -144,3 +144,4 @@
 - Refactor module — iteration 10 (2021)
 - Add validation — iteration 11 (2021)
 - Add validation — iteration 18 (2021)
+- Document usage — iteration 23 (2021)
