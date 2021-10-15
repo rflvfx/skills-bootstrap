@@ -152,3 +152,4 @@
 - Improve error handling — iteration 33 (2021)
 - Extend coverage — iteration 34 (2021)
 - Add example — iteration 35 (2021)
+- Extend coverage — iteration 36 (2021)
