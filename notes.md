@@ -162,3 +162,4 @@
 - Extend coverage — iteration 53 (2021)
 - Polish code — iteration 59 (2021)
 - Improve error handling — iteration 60 (2021)
+- Update config — iteration 1 (2022)
