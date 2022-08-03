@@ -164,3 +164,4 @@
 - Improve error handling — iteration 60 (2021)
 - Update config — iteration 1 (2022)
 - Improve error handling — iteration 2 (2022)
+- Add validation — iteration 3 (2022)
