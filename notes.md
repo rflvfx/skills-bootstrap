@@ -167,3 +167,4 @@
 - Add validation — iteration 3 (2022)
 - Tweak implementation — iteration 5 (2022)
 - Add helper — iteration 6 (2022)
+- Update docs — iteration 10 (2022)
