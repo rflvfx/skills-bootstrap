@@ -189,3 +189,4 @@
 - Add example — iteration 23 (2023)
 - Update docs — iteration 25 (2023)
 - Minor cleanup — iteration 29 (2023)
+- Improve error handling — iteration 33 (2023)
