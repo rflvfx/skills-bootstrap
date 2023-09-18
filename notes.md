@@ -187,3 +187,4 @@
 - Refactor module — iteration 16 (2023)
 - Improve error handling — iteration 21 (2023)
 - Add example — iteration 23 (2023)
+- Update docs — iteration 25 (2023)
