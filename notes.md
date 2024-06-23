@@ -216,3 +216,4 @@
 - Update dependencies — iteration 28 (2024)
 - Document usage — iteration 29 (2024)
 - Update docs — iteration 36 (2024)
+- Minor cleanup — iteration 41 (2024)
