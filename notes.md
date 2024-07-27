@@ -211,3 +211,4 @@
 - Polish code — iteration 18 (2024)
 - Improve naming — iteration 22 (2024)
 - Update dependencies — iteration 23 (2024)
+- Refactor module — iteration 24 (2024)
