@@ -235,3 +235,4 @@
 - Add helper — iteration 28 (2025)
 - Fix typo — iteration 31 (2025)
 - Add validation — iteration 32 (2025)
+- Document usage — iteration 35 (2025)
