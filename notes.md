@@ -226,3 +226,4 @@
 - Fix edge case — iteration 2 (2025)
 - Update docs — iteration 11 (2025)
 - Fix lint warnings — iteration 16 (2025)
+- Document usage — iteration 21 (2025)
