@@ -229,3 +229,4 @@
 - Document usage — iteration 21 (2025)
 - Update dependencies — iteration 23 (2025)
 - Tweak implementation — iteration 24 (2025)
+- Fix edge case — iteration 25 (2025)
