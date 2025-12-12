@@ -237,3 +237,4 @@
 - Add validation — iteration 32 (2025)
 - Document usage — iteration 35 (2025)
 - Add tests — iteration 36 (2025)
+- Improve naming — iteration 38 (2025)
