@@ -249,3 +249,4 @@
 - Fix lint warnings — iteration 10 (2026)
 - Add tests — iteration 23 (2026)
 - Add validation — iteration 24 (2026)
+- Document usage — iteration 30 (2026)
