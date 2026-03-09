@@ -261,3 +261,4 @@
 - Extend coverage — iteration 52 (2026)
 - Improve naming — iteration 56 (2026)
 - Update config — iteration 57 (2026)
+- Tweak implementation — iteration 58 (2026)
