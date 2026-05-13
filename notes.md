@@ -254,3 +254,4 @@
 - Add validation — iteration 32 (2026)
 - Add helper — iteration 38 (2026)
 - Optimize performance — iteration 40 (2026)
+- Improve error handling — iteration 41 (2026)
