@@ -259,3 +259,4 @@
 - Add validation — iteration 50 (2026)
 - Document usage — iteration 51 (2026)
 - Extend coverage — iteration 52 (2026)
+- Improve naming — iteration 56 (2026)
