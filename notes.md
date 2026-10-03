@@ -258,3 +258,4 @@
 - Fix lint warnings — iteration 43 (2026)
 - Add validation — iteration 50 (2026)
 - Document usage — iteration 51 (2026)
+- Extend coverage — iteration 52 (2026)
