@@ -257,3 +257,4 @@
 - Improve error handling — iteration 41 (2026)
 - Fix lint warnings — iteration 43 (2026)
 - Add validation — iteration 50 (2026)
+- Document usage — iteration 51 (2026)
